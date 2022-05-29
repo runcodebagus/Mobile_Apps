@@ -1,2 +1,2 @@
-# UTS_MOBILE_PROGRAMMING
-18090078_BAGUS RIFQI RIDHO_5C
+# this test project mobile apps with kotlin
+BAGUS RIFQI RIDHO
